@@ -20,7 +20,6 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented features:
 
 <img src='https://github.com/alexwinter443/Web102_prework/assets/59127575/be76169b-1b83-4e86-8d15-deb6dca8ee09' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![project](https://github.com/alexwinter443/Web102_prework/assets/59127575/be76169b-1b83-4e86-8d15-deb6dca8ee09)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gifcap
